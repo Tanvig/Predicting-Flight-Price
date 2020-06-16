@@ -1,7 +1,7 @@
 # Flight-price-prediction
 
 # Introduction
-Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable. Huh! Here we take on the challenge! As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities.
+Flight ticket prices are usually hard to guess, they vary dynamically each day or each hour. We might have often heard travellers saying that flight ticket prices are so unpredictable. Huh! Here we take on the challenge! As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities.
 
 **Size of training set** : 10683 records<br/>
 **Size of test set**: 2671 records<br/>
@@ -17,14 +17,10 @@ Flight ticket prices can be something hard to guess, today we might see a price,
 **Additional_Info**: Additional information about the flight.<br/>
 **Price**: The price of the ticket.<br/>
 
-## Prerequisites
-you need to install the following software libraries in your machine before running this projects.<br/>
-    1. Python3<br/>
-    2. Anaconda:It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy.
+## Data
 
-## Installing:
-    1. Python 3 :(https://www.python.org/downloads/)
-    2. Anaconda :(https://www.anaconda.com/download/)
+https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/
+
 
 ## Build With
     1. ipython-notebook - Python Text Editor
@@ -34,6 +30,4 @@ you need to install the following software libraries in your machine before runn
     5. Pandas - Data handling and Manipulating Library.
     6. RandomForestRegressor - Used for making Machine Learning models.
 
-## Authors:
-    Palash Moon
 
